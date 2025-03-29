@@ -1,4 +1,5 @@
-Modern Store App 🏬
+#1 Modern Store App 🏬
+
 A simple React-based store simulation that lets users navigate between different sections, count visits, and toggle between Light Mode & Dark Mode.
 
 🚀 Features
