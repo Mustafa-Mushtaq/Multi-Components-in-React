@@ -13,27 +13,33 @@ Welcome to **Modern Store**, a beginner-friendly React project that simulates a 
 - **CSS** (Responsive Styling)  
 - **Local Storage** (Persistent Data) 
 
-📂 Project Structure
-/src
- ├── components
- │   ├── MainStore
- │   │   ├── MainStore.js
- │   │   ├── MainStore.css
- │   ├── ElectronicsSection
- │   │   ├── ElectronicsSection.js
- │   ├── ClothingSection
- │   │   ├── ClothingSection.js
- ├── styles
- │   ├── global.css
- │   ├── themes.css
- ├── App.js
- ├── index.js
+##📂 Project Structure
+
+modern-store/
+│── src/
+│ ├── components/
+│ │ ├── MainStore/
+│ │ │ ├── MainStore.js
+│ │ │ ├── MainStore.css
+│ │ ├── ElectronicsSection/
+│ │ │ ├── ElectronicsSection.js
+│ │ │ ├── ElectronicsSection.css
+│ │ ├── ClothingSection/
+│ │ │ ├── ClothingSection.js
+│ │ │ ├── ClothingSection.css
+│ ├── styles/
+│ │ ├── global.css
+│ │ ├── themes.css
+│── public/
+│── package.json
+│── README.md
+│── .gitignore
 
  
 🛠 Installation & Setup
 
 1️⃣ Clone the repository:
-git clone https://github.com/your-username/modern-store.git
+git clone https://github.com/Mustafa-Mushtaq/Multi-Components-in-React
 cd modern-store
 
 2️⃣ Install dependencies:
@@ -46,10 +52,10 @@ npm start
 Go to http://localhost:3000/
 
 
-📷 Screenshots
+##📷 Screenshots
 ![image](https://github.com/user-attachments/assets/6a87e67d-a366-40e9-91d8-2a27c7b8380b)
 ![image](https://github.com/user-attachments/assets/9fed57d2-d9fe-4188-8037-67f72780b0ca)
 
 
-📜 License
+##📜 License
 This project is for learning purposes. Feel free to modify and experiment with it!
