@@ -1,0 +1,10 @@
+.section {
+   text-align: center;
+   margin-top: 40px;
+   }
+.button { 
+  padding: 15px 25px;
+  border-radius: 8px;
+  background-color: #2196F3;
+  color: #fff;
+}
